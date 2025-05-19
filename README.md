@@ -40,7 +40,7 @@ Edit these files to customize:
 Perfect for portfolios, SaaS products, or startup websites. Easily customizable with your brand colors and content.
 # Live Demo: 
 
-# 🚀 Quick Start
+## 🚀 Quick Start
 
 1. Clone the repo:
    ```bash
